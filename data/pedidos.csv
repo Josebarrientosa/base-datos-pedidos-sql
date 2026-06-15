@@ -1,0 +1,7 @@
+id,fecha,direccion,id_cliente,detalle
+1,2024-01-05,"Av. Brasil 123, Valparaíso",1,Entrega en horario de tarde
+2,2024-01-06,"Calle Ejemplo 456, Concón",1,
+3,2024-01-06,"Pasaje Los Almendros 12, Viña",2,Dejar con conserje
+4,2024-01-07,"Av. España 800, Valparaíso",3,
+5,2024-01-10,"Calle Valdivia 45, Quilpué",4,Llamar antes
+6,2024-01-12,"Av. Borgoño 200, Concón",5,
